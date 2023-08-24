@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Habibur Rahman</h1>
-<h3 align="center">I'm Web Developer. Always interested to learn new things.</h3>
+<h3 align="center">Always interested to learn new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrebon&label=Profile%20views&color=0e75b6&style=flat" alt="hrebon" /> </p>
 
 
-- 🔭 I’m currently working on **Web developer.**
+- 🔭 I’m currently working on **Data Analysis.**
 
-- 🌱 I’m currently learning **web development and also App development.**
+- 🌱 I’m currently learning **Data Science | Data Analysis | Deep Learning | Machine Learning | R Programming | MERN Stack Development.**
 
-- 👨‍💻 All of my projects are available at [https://unruffled-euler-a1e277.netlify.app/](https://unruffled-euler-a1e277.netlify.app/)
+- 👨‍💻 All of my MERN Stack projects are available at portfolio [https://unruffled-euler-a1e277.netlify.app/](https://unruffled-euler-a1e277.netlify.app/)
 
 - 📝 I regularly write articles on [https://habibebon90.medium.com/learn-new-things-of-es6-c0ac2e892361](https://habibebon90.medium.com/learn-new-things-of-es6-c0ac2e892361)
 
-- 💬 Ask me about **React, JavaScript, C, MongoDB, Node.js etc.**
+- 💬 Ask me about **R, SQL, Python, Machine Learning, Data Analysis React, JavaScript, C, MongoDB, Node.js etc.**
 
 - 📫 How to reach me **habibebon90@gmail.com**
 
